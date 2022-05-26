@@ -1,0 +1,246 @@
+.head{
+    display: flex;
+    background-color:rgb(230, 227, 200);
+    justify-content: space-between
+}
+
+.nav-bar{
+    display: flex;
+    align-items: center;
+}
+
+.premium{
+    margin: 5px;
+    color:bisque
+}
+
+.grande{
+    justify-content:center;
+    background-color:lightpink
+    
+}
+
+/* //_________________________________________________________________________ */
+
+.grande1{
+    justify-content:center
+}
+
+#altura{
+    display: block;
+    border-radius:5px;
+    background-color:#fff;
+    border: 10px solid #c1c1c1;
+    height:350px;
+    bottom:200px;
+    width:300px; 
+    margin-bottom: 16px;
+
+  }
+
+  .add1{
+    color: rgb(10, 10, 10);
+    font-size:30px;
+    vertical-align: inherit;
+  }
+
+  .add2{
+    color: rgb(10, 10, 10);
+    font-size:20px;
+    vertical-align: inherit;
+  }
+
+  .resultado1{
+    font-size:10px;
+    border-radius:10px;
+    height: 15px;
+    border: 5px solid #c1c1c1;
+  }
+
+/* //_________________________________________________________________________ */
+
+  .grande2{
+    justify-content:center
+}
+
+#empleados{
+    display: block;
+    border-radius:5px;
+    background-color:#fff;
+    border: 10px solid #c1c1c1;
+    height:550px;
+    bottom:50px;
+    width:300px; 
+    margin-bottom: 20px;
+  }
+
+  .add3{
+    color: rgb(10, 10, 10);
+    font-size:30px;
+    vertical-align: inherit;
+    
+  }
+
+  .add4{
+    color: rgb(10, 10, 10);
+    font-size:15px;
+    vertical-align: inherit;
+    padding-right: 10px;
+  }
+
+  #resultado2{
+    font-size:10px;
+    border-radius:10px;
+    height: 15px;
+    border: 5px solid #c1c1c1;
+  }
+
+  #resultado3{
+    font-size:10px;
+    border-radius:10px;
+    height: 15px;
+    border: 5px solid #c1c1c1;
+}
+
+#resultado4{
+  font-size:10px;
+  border-radius:10px;
+  height: 15px;
+  border: 5px solid #c1c1c1;
+}
+
+  /* //_________________________________________________________________________ */
+
+  .grande3{
+    justify-content:center
+}
+
+#multiplo11{
+    display: block;
+    border-radius:5px;
+    background-color:#fff;
+    border: 10px solid #c1c1c1;
+    height:400px;
+    bottom:50px;
+    width:300px; 
+    margin-bottom: 20px;
+  }
+
+  .add5{
+    color: rgb(10, 10, 10);
+    font-size:30px;
+    vertical-align: inherit;
+  }
+  
+  .add6{
+    color: rgb(10, 10, 10);
+    font-size:20px;
+    vertical-align: inherit;
+  }
+
+  #resultado5{
+    font-size:10px;
+    border-radius:10px;
+    height: 15px;
+    border: 5px solid #c1c1c1;
+  }
+
+  /* //_________________________________________________________________________ */
+
+  .grande4{
+    justify-content:center
+}
+
+#multiplo8{
+    display: block;
+    border-radius:5px;
+    background-color:#fff;
+    border: 10px solid #c1c1c1;
+    height:500px;
+    bottom:50px;
+    width:300px; 
+    margin-bottom: 20px;
+  }
+
+  .add7{
+    color: rgb(10, 10, 10);
+    font-size:30px;
+    vertical-align: inherit;
+  }
+
+  .add8{
+    color: rgb(10, 10, 10);
+    font-size:20px;
+    vertical-align: inherit;
+  }
+
+  #resultado6{
+    font-size:10px;
+    border-radius:10px;
+    height: 15px;
+    border: 5px solid #c1c1c1;
+}
+
+/* //_________________________________________________________________________ */
+
+.grande5{
+    justify-content:center
+}
+
+#par{
+    display: block;
+    border-radius:5px;
+    background-color:#fff;
+    border: 10px solid #c1c1c1;
+    height:500px;
+    bottom:50px;
+    width:300px; 
+    margin-bottom: 20px;
+  }
+
+  .add9{
+    color: rgb(10, 10, 10);
+    font-size:30px;
+    vertical-align: inherit;
+  }
+
+  .add10{
+    color: rgb(10, 10, 10);
+    font-size:20px;
+    vertical-align: inherit;
+  }
+
+  #resultado7{
+    font-size:10px;
+    border-radius:10px;
+    height: 15px;
+    border: 5px solid #c1c1c1;
+  }
+
+  #resultado8{
+    font-size:10px;
+    border-radius:10px;
+    height: 15px;
+    border: 5px solid #c1c1c1;
+}
+
+/* //_________________________________________________________________________ */
+
+.grande6{
+    justify-content:center
+}
+
+.impar{
+    display: block;
+    border-radius:5px;
+    background-color:#fff;
+    border: 10px solid #c1c1c1;
+    height:800px;
+    bottom:50px;
+    width:300px; 
+    margin-bottom: 20px;
+}
+
+label{
+  padding: 5px;
+}
